@@ -45,8 +45,8 @@ Include screenshots as described in the [Lab 1](L1.md) file.
 
 Include screenshots as described in the [Lab 1](L1.md) file.
 
-![alt-text](images/Main.png)
-![alt-text](images/Remote.png)
+![alt-text](images/Task2-Main.png)
+![alt-text](images/Task2-Remote.png)
 
 ## Task 3: Lab Questions (11 marks)
 
